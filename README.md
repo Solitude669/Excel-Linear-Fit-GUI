@@ -2,7 +2,7 @@
 一键线性拟合 Excel 数据的小工具，**无需安装 Python，双击即用**！
 
 ## 下载使用（推荐）
-1. 进入 [Releases 页面](https://github.com/你的用户名/Excel-Linear-Fit-GUI/releases/latest)
+1. 进入 [Releases 页面](https://github.com/Solitude669/Excel-Linear-Fit-GUI/releases)
 2. 下载 `main.exe`
 3. 双击运行 → **浏览** 选择 Excel → **开始拟合** → **保存图片**
 
@@ -36,4 +36,5 @@
    pyinstaller -F -w main.py
    ```
    生成文件在 dist\main.exe
+
 
