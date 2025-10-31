@@ -32,7 +32,8 @@
    pip install -r requirements.txt
    ```
 3. 打包
-  ```bash
-  pyinstaller -F -w main.py
-  生成文件在 dist\main.exe
-  ```
+   ```bash
+   pyinstaller -F -w main.py
+   ```
+   生成文件在 dist\main.exe
+
