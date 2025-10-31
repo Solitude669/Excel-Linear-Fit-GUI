@@ -11,7 +11,9 @@
 ```bash
 pip install -r requirements.txt
 pyinstaller -F -w main.py
+```
 
 ## 截图
 
 ![screenshot](./screenshot.png)
+
