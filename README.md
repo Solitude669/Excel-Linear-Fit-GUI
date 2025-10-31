@@ -16,4 +16,6 @@ pyinstaller -F -w main.py
 ## 截图
 
 ![screenshot](./screenshot.png)
+<img width="1122" height="912" alt="screenshot" src="https://github.com/user-attachments/assets/5a73da86-8637-4521-83dd-6a0bd0debc3e" />
+
 
