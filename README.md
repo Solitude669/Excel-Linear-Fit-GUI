@@ -23,7 +23,7 @@
 示例文件：`demo.xlsx`（ Releases 同页可下载）
 
 ## 截图
-[screenshot]()
+![screenshot](screenshot.png)
 
 ## 本地开发 / 二次打包
 1. 克隆或下载源码
@@ -36,6 +36,7 @@
    pyinstaller -F -w main.py
    ```
    生成文件在 dist\main.exe
+
 
 
 
